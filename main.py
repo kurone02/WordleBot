@@ -34,7 +34,7 @@ def screen_clear():
 def entropy(words_space_size):
     prob = words_space_size / len(possible_words)
     prob = np.where(prob == 0, 1, prob)
-    return -prob * np.log2(prob)
+    return -prob * np.log2(prob) 
 
 
 def expected_entropy(word, words_space):
