@@ -21,5 +21,5 @@ python main.py
 - The bot will give you a list of suggestions based on the expected infomation it provides, sorted from best to worst.
 - Type your chosen word.
 - Type the pattern that wordle gives
-- The bot will process the pattern and give another suggesstions based on that.
+- The bot will process the pattern and give other suggesstions based on that.
 - Repeat the process until only one word remains.
