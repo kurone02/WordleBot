@@ -7,12 +7,12 @@ A bot that can solve wordle fast
 ## How to run
 1. Firstly, install [python](https://www.python.org/downloads/), preferably version 3.8
 
-1. Secondly, install dependencies
+2. Secondly, install dependencies
 ```
 pip install -r requirement.txt
 ```
 
-1. Lastly, run the program
+3. Lastly, run the program
 ```
 python main.py
 ```
