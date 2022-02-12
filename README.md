@@ -1,6 +1,9 @@
 # WordleBot
 A bot that can solve wordle fast
 
+## Discord invite
+[Click here](https://discord.com/oauth2/authorize?client_id=941982914541916200&permissions=377957174272&scope=bot)
+
 ## Demo
 [Click here to watch the demo](https://www.youtube.com/watch?v=YCPlbhvTXLg)
 
