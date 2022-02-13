@@ -7,11 +7,11 @@ A bot that can solve wordle fast
 ## Discord tutorial
 | Commands                                                      | Usage                          |
 |---------------------------------------------------------------|--------------------------------|
-| !wordle         | To initiate a new wordle game, other commands except *!wordle_help* won't work unless this command is used |
-| !get_words \[number_of_suggestions (default is 5)\] | Get wordle suggestions based on the expected infomation they provide, sorted from best to worst. For example: `!get_words 10` |
-| !guess \[word\] \[pattern\]      | Started guessing, `word` the chosen word and `pattern` is the word's pattern on wordle: 0 is gray, 1 is yellow and 2 is green. For example: `!guess raise 11020` |
-| !get_history          | Get the guess history |
-| !wordle_help          | Get help using the bot |
+| `!wordle`         | To initiate a new wordle game, other commands except *!wordle_help* won't work unless this command is used |
+| `!get_words \[number_of_suggestions (default is 5)\]` | Get wordle suggestions based on the expected infomation they provide, sorted from best to worst. For example: `!get_words 10` |
+| `!guess \[word\] \[pattern\]`      | Started guessing, `word` the chosen word and `pattern` is the word's pattern on wordle: 0 is gray, 1 is yellow and 2 is green. For example: `!guess raise 11020` |
+| `!get_history`          | Get the guess history |
+| `!wordle_help`          | Get help using the bot |
 
 ## Demo
 [Click here to watch the demo](https://www.youtube.com/watch?v=YCPlbhvTXLg)
