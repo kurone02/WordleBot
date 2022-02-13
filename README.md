@@ -4,6 +4,15 @@ A bot that can solve wordle fast
 ## Discord invite
 [Click here](https://discord.com/oauth2/authorize?client_id=941982914541916200&permissions=377957174272&scope=bot)
 
+## Discord tutorial
+| Commands                                                      | Usage                          |
+|---------------------------------------------------------------|--------------------------------|
+| !wordle         | To initiate a new wordle game, other commands except *!wordle_help* won't work unless this command is used |
+| !get_words \[number of suggestions\] | Get wordle suggestions based on the expected infomation they provide, sorted from best to worst  |
+| !guess \[word\] \[pattern\]      | Get a word, *word* the chosen word and *pattern* is the word's pattern on wordle: 0 is gray, 1 is yellow and 2 is green |
+| !get_history          | Get the guess history |
+| !wordle_help          | Get help using the bot |
+
 ## Demo
 [Click here to watch the demo](https://www.youtube.com/watch?v=YCPlbhvTXLg)
 
