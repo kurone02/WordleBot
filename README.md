@@ -40,4 +40,4 @@ python bot.py
 ## Statistics
 - The average score is: 3.5991, which means it takes about 3.6 moves to solve wordle.
 - Distribution:
-![Score Distribution](Figure_1.png")
+![Score Distribution](Figure_1.png)
