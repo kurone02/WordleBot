@@ -5,8 +5,6 @@ import bot as wordle_bot
 from tqdm import tqdm as display
 import matplotlib.pyplot as plt
 
-from main import wordle
-
 
 NUM_ANS = len(wordle_bot.possible_words)
 words_space = wordle_bot.possible_words
