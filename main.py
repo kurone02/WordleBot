@@ -155,6 +155,11 @@ async def get_history(ctx):
     embed.add_field(name = "Pattern", value = infomation)
 
     await ctx.reply(embed=embed)
+    
+ 
+@client.command(name="wordle_help")
+async def wordle_help(ctx):
+    await ctx.reply(file=File("tutorial.png"))
 
 
 @client.command(name="gay")
