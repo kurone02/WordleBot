@@ -36,3 +36,8 @@ python bot.py
 - The bot will process the pattern and give other suggesstions based on that.
 - Repeat the process until only one word remains.
 - Type ".exit" to quit.
+
+## Statistics
+- The average score is: 3.5991, which means it takes about 3.6 moves to solve wordle.
+- Distribution:
+![Score Distribution](Figure_1.png")
